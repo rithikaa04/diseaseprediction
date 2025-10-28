@@ -30,7 +30,7 @@ CSV / MySQL (for data storage)
 
 🚀 How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/disease-prediction-system.git
+git clone
 
 2️⃣ Navigate to the Project Folder
 cd disease-prediction-system
@@ -52,8 +52,6 @@ python manage.py runserver
 5️⃣ Open in Browser
 
 Go to:
-
-http://127.0.0.1:5000/
 
 
 (or the port shown in your terminal)
